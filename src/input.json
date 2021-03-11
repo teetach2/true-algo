@@ -1,0 +1,46 @@
+[
+    {
+        "type": 1000,
+        "quantity": 700
+    },
+    {
+        "type": 500,
+        "quantity": 60
+    },
+    {
+        "type": 100,
+        "quantity": 60
+    },
+    {
+        "type": 50,
+        "quantity": 60
+    },
+    {
+        "type": 20,
+        "quantity": 60
+    },
+    {
+        "type": 10,
+        "quantity": 60
+    },
+    {
+        "type": 5,
+        "quantity": 60
+    },
+    {
+        "type": 2,
+        "quantity": 60
+    },
+    {
+        "type": 1,
+        "quantity": 60
+    },
+    {
+        "type": 0.50,
+        "quantity": 60
+    },
+    {
+        "type": 0.25,
+        "quantity": 60
+    }
+]
